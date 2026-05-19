@@ -6,6 +6,7 @@ Soy Técnico superior en desarrollo de aplicaciones web, centrado principalmente
   <li>📋<a href="">Portfolio</a></li>
   <li>📧<a href="mailto:joaquinftn122@gmail.com">Mail</a></li>
   <li>📃<a href="https://drive.google.com/file/d/1P6PXVoRbzyBVaMar00LLP7ld8JvB6OaX/view?usp=drive_link">CV<a></li>
+  <li>💼<a href="https://www.linkedin.com/in/joaquin-telo-749907378/">Linkedin</a></li>
 </ul>
 
 ## ⭐Skills
