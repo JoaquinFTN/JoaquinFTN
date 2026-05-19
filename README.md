@@ -4,7 +4,7 @@ Soy Técnico superior en desarrollo de aplicaciones web, centrado principalmente
 
 <ul>
   <li>📋<a href="">Portfolio</a></li>
-  <li>📧Mail: <a href="mailto:joaquinftn122@gmail.com">joaquinftn122@gmail.com</a></li>
+  <li>📧<a href="mailto:joaquinftn122@gmail.com">Mail</a></li>
   <li>📃<a href="https://drive.google.com/file/d/1P6PXVoRbzyBVaMar00LLP7ld8JvB6OaX/view?usp=drive_link">CV<a></li>
 </ul>
 
