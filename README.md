@@ -3,10 +3,11 @@
 Soy Técnico superior en desarrollo de aplicaciones web, centrado principalmente en el desarrollo de backend, tengo experiencia trabajando en equipo ya que estuve deis meses de practicas en la empresa THB hotels en su departamento de tecnología junto a otros cuatro compañeros, estas practicas estaban divididas en tres meses de practicas duales en las que se nos formo principalmente en el uso de Laravel, programación orientada a objetos y el método solid. Y tres de practicas normales, donde pude trabajar en un proyecto para THB que consistía en una aplicación web para el manejo y creación de cursos para el departamento de formación de THB.
 
 <ul>
-  <li><a href="">Portfolio</a></li>
-  <li>Mail: <a href="mailto:joaquinftn122@gmail.com">joaquinftn122@gmail.com</a></li>
-  <li>CV: </li>
+  <li>📋<a href="">Portfolio</a></li>
+  <li>📧Mail: <a href="mailto:joaquinftn122@gmail.com">joaquinftn122@gmail.com</a></li>
+  <li>📃CV: </li>
 </ul>
+
 ## Skills
 
 <p align="center">
